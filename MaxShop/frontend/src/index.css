@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+.productName {
+  font-family: "Playfair Display", serif;
+}
+
+.productPrice {
+  font-family: "Newsreader", serif;
+}
+
+.lastestProduct {
+  font-family: "Newsreader", serif;
+}
+main {
+  min-height: 80vh;
+}
+
+nav {
+  color: aqua;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
