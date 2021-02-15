@@ -81,4 +81,4 @@ const products = [
 
 // export default products  <-- ES model
 
-module.exports = products
+export default products
